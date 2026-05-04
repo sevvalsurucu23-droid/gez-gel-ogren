@@ -1,0 +1,6 @@
+{
+  "name": "Gez Gel Öğren",
+  "description": "İstanbul'un tarihi ve kültürel zenginliklerini harita üzerinde keşfedin. Leaflet.js ve Nominatim API ile geliştirilmiş modern bir web uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
